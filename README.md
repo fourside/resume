@@ -74,7 +74,7 @@
     - ZendFramework/Smarty/Doctrine
 - Ruby 2.1
     - Ruby on Rails 2.1 / Sinatra 1.3
-- VIM 8
+- Vim 8
 - Apache/nginx
 - tool
     - ansible
@@ -86,10 +86,10 @@
 ## やったことがないが興味のあること
 
 ### 関数型言語
-知らない概念を得たい。Haskelを勉強したいと思っている。
+知らない概念を得たい。Haskelを勉強したい。
 
 ### IoT
-電子工作でもいい。技術を身近な暮らしに活かしたい。
+電子工作でもいい。技術を暮らしに活かしたい。
 
 
 ## 参考
