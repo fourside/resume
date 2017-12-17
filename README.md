@@ -44,6 +44,7 @@
             - ビルドごとにJUnitで作った受け入れテストを実行
     - AWS上に環境を構築
         - 使用した主なサービス: ec2, rds, cloudwatch, sns, ses
+        - 構築当初は社内プロクシを超え、多段sshする設定に苦労した
     - バンドルしていなかったJavaScriptをビルドするようにした
         - ついでにlintやunit testを回すようにした
     - 運用につらさを感じてansible/flywayを導入した
