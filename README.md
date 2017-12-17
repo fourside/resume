@@ -95,6 +95,9 @@
 ### IoT
 電子工作でも。技術を暮らしに活かしたい。
 
+### クラウド
+やってるけど、クラウドらしい使い方はできていない。
+
 
 ## 参考
 - [職務経歴書をGitHubで管理しよう - Qiita](https://qiita.com/okoysm/items/abcad0b4aefa585bc50b)
