@@ -57,9 +57,12 @@
 - ミドルウェア: apache, mysql
 - 担当: 設計、実装、保守運用
 - やったこと
+    - マイページ機能の追加
     - バッチの改善
         - 実行時間1hから2,3minに短縮
     - 保守作業として月次の脆弱性調査
+    - キャンペーンサイトをスクラッチで作成
+        - フレームワークを使わない縛りがあった
 
 #### 物流システムの統合
 
@@ -71,9 +74,8 @@
 - Java
     - SE8
     - JavaEE 7
-        - JAX-RS(resteasy)
-        - WebSocket(undertow)
-        - JPA(hibernate)
+        - JAX-RS, JPA, CDI
+        - WebSocket
 - JavaScript
     - AngularJS 1.2/Angular 4
     - TypeScript 2.0
@@ -82,7 +84,7 @@
 - PHP 5.6
     - ZendFramework/Smarty/Doctrine
 - Ruby 2.1
-    - Ruby on Rails 2.1 / Sinatra 1.3
+    - Ruby on Rails 2.x / Sinatra 1.3
 - Vim 8
 - Apache/nginx
 - tool
@@ -95,7 +97,7 @@
 
 ## よわみ
 - 朝
-- 自己評価が低い(らしい)
+- 自己評価が低い
 
 ## やったことがないが興味のあること
 
