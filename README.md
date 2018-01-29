@@ -100,6 +100,7 @@
     - selenium
 
 ## つよみ
+- つよみらしいことを書けないので[自己紹介ブログ](https://fourside.github.io/2018/01/29/about-me.html)を書きました。
 
 ## よわみ
 - 朝
