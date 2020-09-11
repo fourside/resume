@@ -61,7 +61,7 @@
         - インフラ構築が面倒だったので Docker にアプリを押し込めてリリースした
 
 ### 株式会社 A(仮)
-- サーバレスで CtoCtoC サービスの開発
+- サーバレスで CtoC サービスの開発
 - 言語: JavaScript(Node.js), TypeScript(browser)
 - ライブラリ/使用しているサービス: React(CRA), aws-amplify
 - 担当: 設計、実装
@@ -132,34 +132,42 @@
 - 担当: 実装、単体テスト
 
 ## スキル
+
+### 現在よく使っているもの
+- JavaScript
+    - React 16
+    - Node.js
+    - webpack
+- TypeScript
+- HTML/CSS
+- docker/docker-compose
+- AWS
+    - ec2/s3/lambda/cloudwatch/rds/ses/sns/sqs/amplify/cdk/cloudformation/dynamodb/api gateway
+- Vim
+
+### 昔触っていたもの
+- JavaScript
+    - AngularJS 1.2/Angular 4
+    - gulp
 - Java
     - SE8
     - JavaEE 7
-        - JAX-RS, JPA, CDI
-        - WebSocket
-- JavaScript
-    - AngularJS 1.2/Angular 4
-    - TypeScript 2.0
-- HTML5/CSS3
-    - Bootstrap 3.3
 - PHP 5.6
     - ZendFramework/Smarty/Doctrine
 - Ruby 2.1
     - Ruby on Rails 2.x / Sinatra 1.3
-- Vim 8
 - Apache/nginx
-- tool
+- misc
     - ansible
     - flyway
     - Jenkins
     - selenium
 
 ## つよみ
-- つよみらしいことを書けないので[自己紹介ブログ](https://fourside.github.io/2018/01/29/about-me.html)を書きました。
+- つよみらしいことを書けないので[自己紹介ブログ](https://fourside.github.io/about-me)を書きました。
 
 ## よわみ
 - 朝
-- 自己評価が低い
 
 ## 興味のあること
 
