@@ -6,6 +6,7 @@
 
 - name: fourside
 - github: https://github.com/fourside
+- blog: https://fourside.github.io
 
 ## 資格
 
@@ -137,7 +138,6 @@
 - JavaScript
     - React 16
     - Node.js
-    - webpack
 - TypeScript
 - HTML/CSS
 - docker/docker-compose
@@ -149,6 +149,7 @@
 - JavaScript
     - AngularJS 1.2/Angular 4
     - gulp
+    - webpack
 - Java
     - SE8
     - JavaEE 7
